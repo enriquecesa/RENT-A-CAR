@@ -235,3 +235,8 @@ body.dark a.social-icon.text-dark i {
         width: 100%;
     }
 }
+    #darkModeToggle {
+        width: 100%;
+    }
+
+}
